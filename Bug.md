@@ -31,7 +31,7 @@
  
 
 4. # **Найден в версиях**
-Версия с ошибкой - https://slqamsk.github.io/cases/pizza/v08/index.html
+Версия v08 - https://slqamsk.github.io/cases/pizza/v08/index.html
 
 5. # **Критичность**
 Средняя
